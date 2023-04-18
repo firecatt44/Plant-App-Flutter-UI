@@ -20,6 +20,7 @@ class Body extends StatelessWidget {
                 width: size.width / 2,
                 height: 84,
                 child: FlatButton(
+                  
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.only(
                       topRight: Radius.circular(20),
